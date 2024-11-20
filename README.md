@@ -1,3 +1,3 @@
 ## Estudo GIT & GITHUB Interativo
 
-allan
+allan paulo
